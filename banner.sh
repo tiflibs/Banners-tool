@@ -1,3 +1,11 @@
+cd
+gem install lolcat
+Pkg install figlet -y
+Pkg install toilet -y
+Pkg install cowsay -y
+mv agent.cow ../usr/share/cows
+mv eyes.cow ../usr/share/cows
+cd
 clear
 cowsay -f eyes HELLO |lolcat
 toilet -F gay -f standard welcome to |lolcat
@@ -115,4 +123,5 @@ toilet -F gay -f standard welcome to |lolcat
 toilet -F gay -f standard All of you |lolcat
 cowsay -f favourite HELLO |lolcat
 toilet -F gay -f standard welcome |lolcat
-toilet -F gay -f standard Shekhar |lolcat
+toilet -F gay -f standard Bye.. |lolcat
+toilet -F gay -f standard thanks |lolcat
