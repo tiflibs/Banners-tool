@@ -13,15 +13,25 @@ cd
 
 git clone https://github.com/tiflibs/unique-bot
 
-cd unique--bot
+cd unique-bot
 
-chmod +x banner.sh
+chmod +x installation.sh
 
-./banner.sh
+./installation.sh
     
      Or
 
-bash banner.sh
+bash installation.sh
+
+After following above things do following
+
+chmod +x fabulous_banner.sh
+
+./fabulous_banner.sh
+
+     Or
+
+bash fabulous_banner.sh
 
 
 Thanks
