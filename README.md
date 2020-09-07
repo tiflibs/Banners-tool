@@ -1,1 +1,25 @@
 # unique-bot
+
+Script by tiflibs
+
+Installation
+
+follow below given steps to get awesome 👍🙌 banners.
+
+
+cd
+
+git clone https://github.com/tiflibs/unique-bot
+
+cd
+
+chmod +x banner.sh
+
+./banner.sh
+    
+     Or
+
+bash banner.sh
+
+
+Thanks
