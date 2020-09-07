@@ -1,8 +1,10 @@
 # unique-bot
 
-Script by tiflibs
+Script by tiflibs 
 
-Installation
+
+
+Installation (( termux users ))
 
 follow below given steps to get awesome 👍🙌 banners.
 
