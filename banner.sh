@@ -3,6 +3,9 @@ gem install lolcat
 Pkg install figlet -y
 Pkg install toilet -y
 Pkg install cowsay -y
+mv agent.cow /$HOME
+mv eyes.cow /$HOME
+cd
 mv agent.cow ../usr/share/cows
 mv eyes.cow ../usr/share/cows
 cd
