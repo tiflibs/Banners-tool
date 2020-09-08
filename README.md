@@ -13,7 +13,7 @@ cd
 
 git clone https://github.com/tiflibs/unique-bot
 
-cd unique-bot
+cd Banners-tool
 
 chmod +x installation.sh
 
