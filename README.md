@@ -1,4 +1,4 @@
-# unique-bot
+# Banners-tool
 
 Script by tiflibs 
 
