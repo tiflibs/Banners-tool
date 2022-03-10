@@ -25,13 +25,13 @@ bash installation.sh
 
 After following above things do following
 
-chmod +x fabulous_banner.sh
+chmod +x fabulous_banners.sh
 
-./fabulous_banner.sh
+./fabulous_banners.sh
 
      Or
 
-bash fabulous_banner.sh
+bash fabulous_banners.sh
 
 
 Thanks
