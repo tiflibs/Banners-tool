@@ -8,7 +8,7 @@ cd unique-bot
 mv agent.cow /$HOME
 mv eyes.cow /$HOME
 cd
-mv agent.cow ../usr/share/cows
-mv eyes.cow ../usr/share/cows
+cp agent.cow eyes.cow ../usr/share/cowsay/cows
+mv eyes.cow agent.cow ../usr/share/cows
 cd unique-bot
 
