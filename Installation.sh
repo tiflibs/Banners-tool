@@ -1,9 +1,10 @@
 cd
+pkg install ruby
 gem install lolcat
 pkg install figlet 
 pkg install toilet 
 pkg install cowsay 
-cd Banners-tool
+cd unique-bot
 mv agent.cow /$HOME
 mv eyes.cow /$HOME
 cd
