@@ -10,5 +10,5 @@ mv eyes.cow /$HOME
 cd
 mv agent.cow ../usr/share/cows
 mv eyes.cow ../usr/share/cows
-cd
+cd unique-bot
 
